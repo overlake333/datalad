@@ -1,0 +1,137 @@
+[
+    {
+        "change_rev": null, 
+        "idx": null, 
+        "last_err": 0.10839976367096583, 
+        "last_rev": 6801, 
+        "last_value": 0.9602865120396018, 
+        "name": "api.supers.time_createadd", 
+        "pretty_name": "api.supers.time_createadd", 
+        "prev_value": null
+    }, 
+    {
+        "change_rev": null, 
+        "idx": null, 
+        "last_err": 0.14235058940472142, 
+        "last_rev": 6801, 
+        "last_value": 0.9989296654239297, 
+        "name": "api.supers.time_createadd_to_dataset", 
+        "pretty_name": "api.supers.time_createadd_to_dataset", 
+        "prev_value": null
+    }, 
+    {
+        "change_rev": [
+            5746, 
+            5764
+        ], 
+        "idx": null, 
+        "last_err": 0.1451967274031351, 
+        "last_rev": 6801, 
+        "last_value": 3.344241310027428, 
+        "name": "api.supers.time_installr", 
+        "pretty_name": "api.supers.time_installr", 
+        "prev_value": 2.7376359140034765
+    }, 
+    {
+        "change_rev": null, 
+        "idx": null, 
+        "last_err": 0.004265406972263011, 
+        "last_rev": 6801, 
+        "last_value": 0.13366207750514147, 
+        "name": "api.supers.time_ls", 
+        "pretty_name": "api.supers.time_ls", 
+        "prev_value": null
+    }, 
+    {
+        "change_rev": null, 
+        "idx": null, 
+        "last_err": 0.26282776817084197, 
+        "last_rev": 6801, 
+        "last_value": 3.5891474499367177, 
+        "name": "api.supers.time_remove", 
+        "pretty_name": "api.supers.time_remove", 
+        "prev_value": null
+    }, 
+    {
+        "change_rev": null, 
+        "idx": null, 
+        "last_err": 0.0406403899367433, 
+        "last_rev": 6801, 
+        "last_value": 0.30895415996201336, 
+        "name": "api.testds.time_create_test_dataset1", 
+        "pretty_name": "api.testds.time_create_test_dataset1", 
+        "prev_value": null
+    }, 
+    {
+        "change_rev": null, 
+        "idx": null, 
+        "last_err": 0.20389009913346037, 
+        "last_rev": 6801, 
+        "last_value": 2.4503884558798745, 
+        "name": "api.testds.time_create_test_dataset2x2", 
+        "pretty_name": "api.testds.time_create_test_dataset2x2", 
+        "prev_value": null
+    }, 
+    {
+        "change_rev": [
+            null, 
+            6530
+        ], 
+        "idx": null, 
+        "last_err": 1.849829136793101e-05, 
+        "last_rev": 6801, 
+        "last_value": 0.0013022100729867816, 
+        "name": "core.runner.time_echo", 
+        "pretty_name": "core.runner.time_echo", 
+        "prev_value": 0.0011879453230649233
+    }, 
+    {
+        "change_rev": [
+            6530, 
+            6627
+        ], 
+        "idx": null, 
+        "last_err": 1.353307586053716e-05, 
+        "last_rev": 6801, 
+        "last_value": 0.0018000005818903445, 
+        "name": "core.runner.time_echo_gitrunner", 
+        "pretty_name": "core.runner.time_echo_gitrunner", 
+        "prev_value": 0.001703854982042685
+    }, 
+    {
+        "change_rev": [
+            6389, 
+            6393
+        ], 
+        "idx": null, 
+        "last_err": 0.004421215761747015, 
+        "last_rev": 6801, 
+        "last_value": 0.36753993667662144, 
+        "name": "core.startup.time_help_np", 
+        "pretty_name": "core.startup.time_help_np", 
+        "prev_value": 0.33861153293401003
+    }, 
+    {
+        "change_rev": [
+            5816, 
+            5824
+        ], 
+        "idx": null, 
+        "last_err": 0.0017686077260198852, 
+        "last_rev": 6801, 
+        "last_value": 0.12225444064242766, 
+        "name": "core.startup.time_import", 
+        "pretty_name": "core.startup.time_import", 
+        "prev_value": 0.0869399306597188
+    }, 
+    {
+        "change_rev": null, 
+        "idx": null, 
+        "last_err": 0.030770831329461474, 
+        "last_rev": 6801, 
+        "last_value": 0.2861632650019601, 
+        "name": "core.startup.time_import_api", 
+        "pretty_name": "core.startup.time_import_api", 
+        "prev_value": null
+    }
+]
